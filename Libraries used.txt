@@ -1,0 +1,3 @@
+External Libraries that have been used are as follows:
+1.LiquidCrystal I2C by Frank de Brabander
+2.Keypad by Mark Stanley,Alexander Brevig
